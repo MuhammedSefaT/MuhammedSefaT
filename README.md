@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammed Sefa Tayaz  
 
-I am a passionate **Software Developer** who loves building scalable applications, clean architectures, and user-friendly solutions.  
-My focus is on **Web Development** and **Desktop Applications**, but I am always eager to explore new technologies. 🚀  
+I am a passionate **Web Developer** who loves building scalable applications, clean architectures, and user-friendly solutions.  
+I mainly focus on **Frontend and Backend Web Development**, and I am always eager to explore new technologies. 🚀  
 
 ---
 
