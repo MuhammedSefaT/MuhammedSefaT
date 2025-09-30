@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💻 Muhammed Sefa Tayaz
 
-<!--
-**MuhammedSefaT/MuhammedSefaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben yazılım geliştirmeye meraklı bir programcıyım.  
+Ağırlıklı olarak **web geliştirme** ve **masaüstü uygulamaları** üzerine çalışıyorum. 🚀  
 
-Here are some ideas to get you started:
+## 🛠️ Kullandığım Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,vue" /><br>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python" /><br>
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+## 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSefaT&layout=compact&theme=radical" alt="top langs" />
+</p>
