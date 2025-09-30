@@ -17,6 +17,6 @@ Ağırlıklı olarak **web geliştirme** ve **masaüstü uygulamaları** üzerin
 
 ## 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSefaT&show_icons=true&theme=radical" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSefaT&layout=compact&theme=radical" alt="top langs" />
 </p>
