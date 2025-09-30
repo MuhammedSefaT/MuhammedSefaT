@@ -1,22 +1,33 @@
-# 💻 Muhammed Sefa Tayaz
+# 👋 Hi, I'm Muhammed Sefa Tayaz  
 
-Merhaba! Ben yazılım geliştirmeye meraklı bir programcıyım.  
-Ağırlıklı olarak **web geliştirme** ve **masaüstü uygulamaları** üzerine çalışıyorum. 🚀  
+I am a passionate **Software Developer** who loves building scalable applications, clean architectures, and user-friendly solutions.  
+My focus is on **Web Development** and **Desktop Applications**, but I am always eager to explore new technologies. 🚀  
 
-## 🛠️ Kullandığım Teknolojiler
+---
+
+## 🛠️ Technologies & Tools  
 
 <p align="center">
-  <!-- Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,vue" /><br>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,vue" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python" /><br>
-  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python" />
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
+</p>  
 
-## 📊 GitHub İstatistiklerim
+---
+
+## 📈 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSefaT&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSefaT&layout=compact&theme=radical" alt="top langs" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedSefaT&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedSefaT&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>  
+
+---
+
+## 🌍 Vision  
+
+*"I want to improve the world, but unfortunately, there is no source code."*  
