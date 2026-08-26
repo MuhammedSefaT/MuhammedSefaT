@@ -50,13 +50,13 @@ Temiz mimariler tasarlamayı, RESTful API'ler geliştirmeyi, veritabanlarıyla �
 
 ---
 
-## 🐍 Katkı Yılanı
+## 👾 Katkı Uzay Oyunu (Commit Invaders)
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedSefaT/MuhammedSefaT/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammedSefaT/MuhammedSefaT/output/github-snake.svg" />
-<img alt="GitHub Katkı Yılanı" src="https://raw.githubusercontent.com/MuhammedSefaT/MuhammedSefaT/output/github-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedSefaT/MuhammedSefaT/output/commit-invaders-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammedSefaT/MuhammedSefaT/output/commit-invaders.svg" />
+<img alt="GitHub Katkı Uzay Oyunu" src="https://raw.githubusercontent.com/MuhammedSefaT/MuhammedSefaT/output/commit-invaders.svg" width="100%" />
 </picture>
 </p>
 

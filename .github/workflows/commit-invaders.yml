@@ -1,0 +1,24 @@
+name: Generate Commit Invaders
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # her gün gece yarısı çalışır
+  workflow_dispatch: {} # manuel olarak da tetiklenebilir
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Commit Invaders from GitHub contribution grid
+        uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
