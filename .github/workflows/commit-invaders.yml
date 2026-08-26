@@ -1,3 +1,6 @@
+# Katki grafigini Space Invaders oyununa cevirir ve output branch'ine
+# commit-invaders.svg / commit-invaders-dark.svg olarak yazar.
+# Manuel calistirmak icin: Actions sekmesi > Generate Commit Invaders > Run workflow
 name: Generate Commit Invaders
 
 on:
